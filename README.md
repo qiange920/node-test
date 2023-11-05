@@ -26,3 +26,11 @@
 - slice 截取 buffer
 - indexOf 在 buffer 中查找数据
 - copy 拷贝 buffer 中的数据
+
+### 文件操作 Api
+
+- readFile 从指定文件中读取数据
+- writeFile 向指定文件中写入数据
+- appendFile 追加的方式向指定文件中写入数据
+- copyFile 将某个文件中的数据拷贝至另一文件
+- watchFile 对指定文件进行监控
