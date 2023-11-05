@@ -17,3 +17,12 @@
 - parse() 解析路径
 - format() 序列化路径
 - normalize() 规范化路径
+
+### Buffer 实例方法
+
+- fill 使用数据填充 buffer
+- write 向 buffer 中写入数据
+- toString 从 buffer 中提取数据
+- slice 截取 buffer
+- indexOf 在 buffer 中查找数据
+- copy 拷贝 buffer 中的数据
