@@ -34,3 +34,12 @@
 - appendFile 追加的方式向指定文件中写入数据
 - copyFile 将某个文件中的数据拷贝至另一文件
 - watchFile 对指定文件进行监控
+
+### 常见目录操作 Api
+
+- access 判断文件或目录是否具有操作权限
+- stat 获取目录及文件信息
+- mkdir 创建目录
+- rmdir 删除目录
+- readdir 读取目录中内容
+- unlink 删除指定文件
